@@ -1,18 +1,6 @@
 # Browser Technologies
 //Robuuste, toegankelijke websites leren bouwen … 
 
-#### Mijn WAFS veranderingen
-Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan worden voor accessibility. Na het onderzoeken kwam ik op de volgende punten:
-
-* De images die ik ophaal bevatten geen “alt” tagg. DIt moet gedaan worden voor screen readers.
-* Cookies een max-age geven, zodat de cache vernieuwd wordt.
-* Script defer, het laad de Javascript eerder in en voert het pas uit als de DOM klaar is.
-* Keyboard shortcuts om net iets eerder bij de content te komen.
-* Als de image niet displayed wordt, dan moet de alt tekst weergeven worden als back up.
-
-Mijn opdracht was gelukkig wel goed te navigeren met de TAB.
-
-
 ## Opdracht 1 - Progressive Enhancement
 
 ### Opdracht 1.1 - Breek het Web
@@ -44,5 +32,16 @@ Criteria
 - Zet je code op Github
 - Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben 
 
+
+#### Mijn WAFS veranderingen
+Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan worden voor accessibility. Na het onderzoeken kwam ik op de volgende punten:
+
+* De images die ik ophaal bevatten geen “alt” tagg. DIt moet gedaan worden voor screen readers.
+* Cookies een max-age geven, zodat de cache vernieuwd wordt.
+* Script defer, het laad de Javascript eerder in en voert het pas uit als de DOM klaar is.
+* Keyboard shortcuts om net iets eerder bij de content te komen.
+* Als de image niet displayed wordt, dan moet de alt tekst weergeven worden als back up.
+
+Mijn opdracht was gelukkig wel goed te navigeren met de TAB.
 
  
