@@ -73,6 +73,7 @@ Criteria
 * Zet je code op Github
 * Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben 
 
+![cover]
 
 ## Mijn WAFS veranderingen
 Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan worden voor accessibility. Na het onderzoeken kwam ik op de volgende punten:
@@ -86,5 +87,4 @@ Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan word
 
 Mijn opdracht was gelukkig wel goed te navigeren met de TAB. Ook is het toegankelijk voor kleurenblinden mensen. De kleur wordt alleen gebruikt voor stijling.
 
-![cover]
  [cover]: preview.png
