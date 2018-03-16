@@ -32,7 +32,7 @@ Deze website heb ik getest met alle functies voor kleurblinden mensen. De functi
 
 ## Muis/Touchpad uitzetten
 
-## Websites: 
+### Websites: 
 http://www.hetpurmerplein.nl
 https://helenabloemen.nl/
 
@@ -40,9 +40,8 @@ Purmerplein is het lokale winkelcentrum in mijn buurt. De website is al erg vero
 
 Helenabloemen is een vestiging op het winkelcentrum Purmerplein. Als ik bloemen nodig heb is dit de voornaamste plek waar ik heen ga.
 
-Hoe heb ik de test voor elkaar gekregen?
+### Hoe heb ik de test voor elkaar gekregen?
 Ik heb zelf een plugin gedownload genaamd “Spectrum” voor Chrome. Dit heeft veel varianten van mensen die moeite hebben met kleur.
-
 
 
 ### Purmerplein website test
