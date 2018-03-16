@@ -86,4 +86,5 @@ Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan word
 
 Mijn opdracht was gelukkig wel goed te navigeren met de TAB. Ook is het toegankelijk voor kleurenblinden mensen. De kleur wordt alleen gebruikt voor stijling.
 
- 
+![cover]
+ [cover]: preview.png
