@@ -73,7 +73,7 @@ Criteria
 * Zet je code op Github
 * Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben 
 
-![cover]
+![My performance web app test[cover]
 
 ## Mijn WAFS veranderingen
 Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan worden voor accessibility. Na het onderzoeken kwam ik op de volgende punten:
