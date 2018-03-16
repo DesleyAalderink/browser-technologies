@@ -41,7 +41,8 @@ Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan word
 * Script defer, het laad de Javascript eerder in en voert het pas uit als de DOM klaar is.
 * Keyboard shortcuts om net iets eerder bij de content te komen.
 * Als de image niet displayed wordt, dan moet de alt tekst weergeven worden als back up.
+* De applicatie werkt niet zonder JavaScript, omdat het een webapp is.
 
-Mijn opdracht was gelukkig wel goed te navigeren met de TAB.
+Mijn opdracht was gelukkig wel goed te navigeren met de TAB. Ook is het toegankelijk voor kleurenblinden mensen. De kleur wordt alleen gebruikt voor stijling.
 
  
