@@ -21,13 +21,13 @@ Lezen: [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/ever
 ### Website:
 http://www.toute-fabienne.nl
 
-Toute Fabienne website test
-Deze website heb ik getest met de functie “Low-Contrast”. Dit maakte de webite erg onleesbaar.
+Toute Fabienne website test.
+Deze website heb ik getest met alle functies voor kleurblinden mensen. De functie “Low-Contrast” viel het meeste op als een probleem want, dit maakte de webite erg onleesbaar.
 
 ### Oplossingen?
-- Een plugin downloaden die contrast nacheckt
-- Een library die het fixt
-- Een contrast knop op de website 
+* Een plugin downloaden die contrast nacheckt
+* Een library die het fixt
+* Een contrast knop op de website 
 
 
 ## Muis/Touchpad uitzetten
@@ -49,30 +49,30 @@ Ik heb zelf een plugin gedownload genaamd “Spectrum” voor Chrome. Dit heeft 
 Toen ik begon met het testen viel me al snel iets op. Als je tabt is het niet duidelijk wat je positie op de website precies is. Het is niet duidelijk waar je in het menu bent, MAAR het is wel bruikbaar. Op dat cruciale probleem na is er verder niks mis met het tabben door de website.
 
 ### Oplossingen?
-- Het ervoor zorgen dat je ziet waar je tabt kan aangepakt worden met een :focus state. Het kan zo simpel zijn als een kleur verandering of het desbetreffende items vergroten.
+* Het ervoor zorgen dat je ziet waar je tabt kan aangepakt worden met een :focus state. Het kan zo simpel zijn als een kleur verandering of het desbetreffende items vergroten.
 
 ### Helenabloemen website test
 Deze website is een grote drama zonder muis. Door het menu scrollen gaat erg moeizaam. Het uitklapmenu wilt niet uitklappen. Door deze fout loop je al zo goed als alle content mis. Het enige wat je nog kan gebruiken is het standaard overzicht van een paar bloemen. Je kan de standaard selectie ook niet aanpassen zonder muis. Alles waar je op kan tabben doet het wel.
 
 ### Oplossingen?
-- focus within kan gebruikt worden voor het uitklapmenu, zodat hij uitklapt.
-- tab index kan gebruikt worden, zodat de gebruiker de standaard selectie op de homepage kan veranderen.
+* focus within kan gebruikt worden voor het uitklapmenu, zodat hij uitklapt.
+* tab index kan gebruikt worden, zodat de gebruiker de standaard selectie op de homepage kan veranderen.
 
 
 ### Opdracht 1.2 - Fork je OBA
 Hoe zit het eigenlijk met Progressive Enhancement van je OBA opdracht? Waarschijnlijk kan daar wel het één en ander aan verbeterd worden, dat ding is immers in een week in elkaar gehackt! 
 
 Voor deze opdracht ga je toepassen wat je van opdracht 1.1 hebt geleerd.
-- Pas Progressive enhancement toe op je OBA Web App. 
-- Check je OBA Web App op de 8 features uit opdracht 1.1 en verbeter de code waar mogelijk.
-- Test  je OBA Web App in het device lab.
-- Laat je OBA Web App voorlezen door een screenreader. 
-- Gebruik onderstaande artikelen om je code te optimaliseren.
+* Pas Progressive enhancement toe op je OBA Web App. 
+* Check je OBA Web App op de 8 features uit opdracht 1.1 en verbeter de code waar mogelijk.
+* Test  je OBA Web App in het device lab.
+* Laat je OBA Web App voorlezen door een screenreader. 
+* Gebruik onderstaande artikelen om je code te optimaliseren.
 [The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/) en [Accessibility Originates With UX: A BBC iPlayer Case Study](https://www.smashingmagazine.com/2015/02/bbc-iplayer-accessibility-case-study/)
 
 Criteria
-- Zet je code op Github
-- Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben 
+* Zet je code op Github
+* Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben 
 
 
 #### Mijn WAFS veranderingen
