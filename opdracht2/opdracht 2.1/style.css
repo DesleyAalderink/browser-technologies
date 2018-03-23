@@ -1,0 +1,106 @@
+body{
+  font-family: "Open Sans"
+}
+
+header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 999;
+}
+header nav {
+  background: #FF5964;
+  height: 3.75em;
+}
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #FF5964;
+  display: flex;
+  justify-content: space-around;
+}
+
+header nav a {
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  padding: 0 1.25em 0 1.25em;
+  line-height: 3.75em;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+header nav a:hover{
+  color: #BA1200;
+  transition: all .3s ease;
+}
+
+header nav a:focus{
+  color: #BA1200;
+  transition: all .3s ease;
+}
+
+header nav .mobile-menu-checkbox {
+  display: none;
+}
+header nav .mobile-menu-toggle {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 0.06em 0.26em;
+  cursor: pointer;
+  transition: all .3s ease;
+  color: #FFFFFF;
+  font-size: 2.5em;
+}
+header nav .mobile-menu-toggle:hover {
+  background: #BA1200;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 50em) {
+  header nav ul {
+    position: fixed;
+    top: -25em;
+    width: 100%;
+    transition: all .3s ease;
+    z-index: -1;
+    opacity: 0;
+    flex-direction: column;
+  }
+  header nav a:hover{
+    color: #FFFFFF;
+  }
+
+  header nav ul li {
+    display: block;
+  }
+
+  header nav ul li:hover{
+    background-color: #BA1200;
+    transition: all .3s ease;
+  }
+
+  header nav ul li:focus{
+    background-color: #BA1200;
+    transition: all .3s ease;
+  }
+
+  header nav ul li a {
+    display: block;
+    border-top: 1px solid #FFFFFF;
+  }
+
+  header nav .mobile-menu-checkbox:checked ~ ul {
+    top: 3.75em;
+    opacity: 100;
+  }
+
+  header nav .mobile-menu-toggle {
+    display: block;
+  }
+}
