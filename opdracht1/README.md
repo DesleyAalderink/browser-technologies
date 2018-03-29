@@ -75,6 +75,52 @@ Criteria
 
 ![My performance web app test][cover]
 
+## Images
+Mijn WAFS maakt gebruikt van images bij het laten zien van een film. De images die ik ophaal hebben alleen nog geen alt tekst. De image die hij laat zien is een film poster van de desbetreffende film. De vraag is eerder of de alt tekst nodig is. In mijn mening is het niet belangrijk, want eronder wordt er uitgelegd wat de film inhoudt.
+
+**Fix:** niks.
+
+
+## Internet
+Als er geen internet is dan zal de app het alsnog blijven doen als de gebruiker de films eerder gezocht heeft. De data wordt opgeslagen in een localstorage. Als de gebruiker op de applicatie komt zonder iets bekeken te hebben en ze hebben geen internet dan zal de app onbruikbaar zijn. Er is ook nog geen errorafhandeling voor dit probleem.
+
+**Fix:** Errorafhandeling als er geen internet is.
+
+
+## Tabgebruik
+De app doet het perfect met tabgebruik. De gebruiker kan gemakkelijk door de applicatie heen navigeren. Ze zullen op de juiste items terechtkomen en het gaat via een logische volgorde.
+
+**Fix:** Niks.
+
+
+## Screenreaders
+De screenreader test heb ik gedaan door middel van het programma NVDA. De screenreader leest alles goed op en er gaat gelukkig niks mist. Blinden mensen kunnen de applicatie zonder enig probleem gebruiken.
+
+**Fix:** Niks.
+
+
+## Fonts
+Het font dat ik gebruik is Open Sans. Het heeft alleen geen fallback fons. Dit is wel iets wat toegevoegd moet worden, want een goed font geeft toch wel een meer plezierige ervaring dan een font dat er niet uitziet.
+
+**Fix:** Een fallback font toevoegen.
+
+
+## Kleur
+De applicatie gebruikt weinig kleur. De kleur dat het gebruikt is ook totaal niet belangrijk voor de interface. Ik heb deze test afgelegd door middel van de Google Chrome applicatie 'Spectrum'. Ik heb getest op het volgende:
+
+[checkbox:checked]Protonapia
+[checkbox:checked]Protanomaly
+[checkbox:checked]Deuteranopia
+[checkbox:checked]Deuteranomaly
+[checkbox:checked]Tritanopia
+[checkbox:checked]Tritanomaly
+[checkbox:checked]Achromatopsia
+[checkbox:checked]Achromatomaly
+[checkbox:checked]Low-contrast
+
+**Fix:** Niks.
+
+
 ## Mijn WAFS veranderingen
 Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan worden voor accessibility. Na het onderzoeken kwam ik op de volgende punten:
 
