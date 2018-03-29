@@ -73,7 +73,7 @@ Criteria
 * Zet je code op Github
 * Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben 
 
-![My performance web app test][cover]
+
 
 ## Images
 Mijn WAFS maakt gebruikt van images bij het laten zien van een film. De images die ik ophaal hebben alleen nog geen alt tekst. De image die hij laat zien is een film poster van de desbetreffende film. De vraag is eerder of de alt tekst nodig is. In mijn mening is het niet belangrijk, want eronder wordt er uitgelegd wat de film inhoudt.
@@ -118,12 +118,26 @@ De applicatie gebruikt weinig kleur. De kleur dat het gebruikt is ook totaal nie
 - [x] Achromatomaly
 - [x] Low-contrast
 
+Alles kwam er succesvol uit.
+
 **Fix:** Niks.
+
 
 ## Javascript
 Als de JavaScript wordt uitgezet dan doet de hele app het niet meer. Dit kan opgelost worden als de app server side gemaakt wordt.
 
-**Fix:** De app server side maken
+**Fix:** De app server side maken.
+
+
+## Cookies
+De applicatie maakt geen gebruik van cookies.
+
+**Fix:** Niks.
+
+## Performance
+![My performance web app test][cover]
+
+De performance heb ik getest door middel van de Google developer tool 'Audit'.
 
 ## Device Lab
 
