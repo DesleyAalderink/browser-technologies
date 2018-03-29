@@ -137,7 +137,7 @@ De applicatie maakt geen gebruik van cookies.
 ## Performance
 ![My performance web app test][cover]
 
-De performance heb ik getest door middel van de Google developer tool 'Audit'.
+De performance heb ik getest door middel van de Google developer tool 'Audit'. De accessibility is vrij hoog beoordeelt.
 
 ## Device Lab
 
