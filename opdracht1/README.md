@@ -108,29 +108,24 @@ Het font dat ik gebruik is Open Sans. Het heeft alleen geen fallback fons. Dit i
 ## Kleur
 De applicatie gebruikt weinig kleur. De kleur dat het gebruikt is ook totaal niet belangrijk voor de interface. Ik heb deze test afgelegd door middel van de Google Chrome applicatie 'Spectrum'. Ik heb getest op het volgende:
 
-[checkbox:checked]Protonapia
-[checkbox:checked]Protanomaly
-[checkbox:checked]Deuteranopia
-[checkbox:checked]Deuteranomaly
-[checkbox:checked]Tritanopia
-[checkbox:checked]Tritanomaly
-[checkbox:checked]Achromatopsia
-[checkbox:checked]Achromatomaly
-[checkbox:checked]Low-contrast
+- [x] Protonapia 
+- [x] Protanomaly
+- [x] Deuteranopia
+- [x] Deuteranomaly
+- [x] Tritanopia
+- [x] Tritanomaly
+- [x] Achromatopsia
+- [x] Achromatomaly
+- [x] Low-contrast
 
 **Fix:** Niks.
 
+## Javascript
+Als de JavaScript wordt uitgezet dan doet de hele app het niet meer. Dit kan opgelost worden als de app server side gemaakt wordt.
 
-## Mijn WAFS veranderingen
-Ik heb mijn opdracht voor WAFS teruggekeken om te kijken wat er betered kan worden voor accessibility. Na het onderzoeken kwam ik op de volgende punten:
+**Fix:** De app server side maken
 
-* De images die ik ophaal bevatten geen “alt” tagg. DIt moet gedaan worden voor screen readers.
-* Cookies een max-age geven, zodat de cache vernieuwd wordt.
-* Script defer, het laad de Javascript eerder in en voert het pas uit als de DOM klaar is.
-* Keyboard shortcuts om net iets eerder bij de content te komen.
-* Als de image niet displayed wordt, dan moet de alt tekst weergeven worden als back up.
-* De applicatie werkt niet zonder JavaScript, omdat het een webapp is.
+## Device Lab
 
-Mijn opdracht was gelukkig wel goed te navigeren met de TAB. Ook is het toegankelijk voor kleurenblinden mensen. De kleur wordt alleen gebruikt voor stijling.
 
  [cover]: preview.png
