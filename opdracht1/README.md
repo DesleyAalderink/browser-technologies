@@ -154,7 +154,12 @@ Het viel mij meteen op dat mijn applicatie goed draait!
 Alle styling is precies zoals het bedoeld is en de applicatie werkt naar behoefte.
 De applicatie kan zonder probleem op dit device gebruikt worden.
 
- 
+![Device lab foto](dl5.jpg)
+
+Tijdens het testen op een oud device viel het meteen op dat mijn hele applicatie het niet deed.
+Ik raakte eerst een beetje in de stress, want ik snapte niet wat er mis gegaan kon zijn.
+Het duurde effe voor ik mijzelf realiseerde dat de hele JavaScript het gewoon niet deed!
+JavaScript wordt totaal niet ondersteund op dit device.
 
 
 
