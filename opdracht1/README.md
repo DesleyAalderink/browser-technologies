@@ -146,9 +146,9 @@ Door dit te testen heb een inzicht gekregen hoe mijn applicatie werkt op oudere 
 Helaas waren niet alle devices beschikbaar.
 Ik geef mijzelf de schuld hiervoor, omdat ik gewoon eerder naar het lab moest gaan.
 
-[Device lab foto](dl1.jpg)
-[Device lab foto](dl2.jpg)
-[Device lab foto](dl3.jpg)
+![Device lab foto](dl1.jpg)
+![Device lab foto](dl2.jpg)
+![Device lab foto](dl3.jpg)
 
 Het viel mij meteen op dat mijn applicatie goed draait!
 Alle styling is precies zoals het bedoeld is en de applicatie werkt naar behoefte.
