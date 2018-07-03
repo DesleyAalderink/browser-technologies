@@ -1,5 +1,5 @@
 # Browser Technologies
-//Robuuste, toegankelijke websites leren bouwen … 
+//Robuuste, toegankelijke websites leren bouwen …
 
 ## Opdracht 1 - Progressive Enhancement
 
@@ -27,12 +27,12 @@ Deze website heb ik getest met alle functies voor kleurblinden mensen. De functi
 ### Oplossingen?
 * Een plugin downloaden die contrast nacheckt
 * Een library die het fixt
-* Een contrast knop op de website 
+* Een contrast knop op de website
 
 
 ## Muis/Touchpad uitzetten
 
-### Websites: 
+### Websites:
 http://www.hetpurmerplein.nl
 https://helenabloemen.nl/
 
@@ -59,19 +59,19 @@ Deze website is een grote drama zonder muis. Door het menu scrollen gaat erg moe
 
 
 ### Opdracht 1.2 - Fork je OBA
-Hoe zit het eigenlijk met Progressive Enhancement van je OBA opdracht? Waarschijnlijk kan daar wel het één en ander aan verbeterd worden, dat ding is immers in een week in elkaar gehackt! 
+Hoe zit het eigenlijk met Progressive Enhancement van je OBA opdracht? Waarschijnlijk kan daar wel het één en ander aan verbeterd worden, dat ding is immers in een week in elkaar gehackt!
 
 Voor deze opdracht ga je toepassen wat je van opdracht 1.1 hebt geleerd.
-* Pas Progressive enhancement toe op je OBA Web App. 
+* Pas Progressive enhancement toe op je OBA Web App.
 * Check je OBA Web App op de 8 features uit opdracht 1.1 en verbeter de code waar mogelijk.
 * Test  je OBA Web App in het device lab.
-* Laat je OBA Web App voorlezen door een screenreader. 
+* Laat je OBA Web App voorlezen door een screenreader.
 * Gebruik onderstaande artikelen om je code te optimaliseren.
 [The accessibility mindset](https://24ways.org/2015/the-accessibility-mindset/) en [Accessibility Originates With UX: A BBC iPlayer Case Study](https://www.smashingmagazine.com/2015/02/bbc-iplayer-accessibility-case-study/)
 
 Criteria
 * Zet je code op Github
-* Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben 
+* Schrijf een Readme met een beschrijving van de problemen die je hebt gevonden, hoe je die hebt opgelost, of hoe je dit zou oplossen (met todo’s) als je genoeg tijd en budget zou hebben
 
 
 
@@ -108,7 +108,7 @@ Het font dat ik gebruik is Open Sans. Het heeft alleen geen fallback fons. Dit i
 ## Kleur
 De applicatie gebruikt weinig kleur. De kleur dat het gebruikt is ook totaal niet belangrijk voor de interface. Ik heb deze test afgelegd door middel van de Google Chrome applicatie 'Spectrum'. Ik heb getest op het volgende:
 
-- [x] Protonapia 
+- [x] Protonapia
 - [x] Protanomaly
 - [x] Deuteranopia
 - [x] Deuteranomaly
@@ -140,6 +140,22 @@ De applicatie maakt geen gebruik van cookies.
 De performance heb ik getest door middel van de Google developer tool 'Audit'. De accessibility is vrij hoog beoordeelt.
 
 ## Device Lab
+In het Device Lab heb ik mijn WAFS applicatie getest.
+Het Device Lab is een "lab" waar veel oude mobiele/tablet devices zitten.
+Door dit te testen heb een inzicht gekregen hoe mijn applicatie werkt op oudere devices.
+Helaas waren niet alle devices beschikbaar.
+Ik geef mijzelf de schuld hiervoor, omdat ik gewoon eerder naar het lab moest gaan.
+
+[Device lab foto](dl1.jpg)
+[Device lab foto](dl2.jpg)
+[Device lab foto](dl3.jpg)
+
+Het viel mij meteen op dat mijn applicatie goed draait!
+Alle styling is precies zoals het bedoeld is en de applicatie werkt naar behoefte.
+De applicatie kan zonder probleem op dit device gebruikt worden.
+
+ 
+
 
 
  [cover]: preview.png
