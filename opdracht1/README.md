@@ -161,6 +161,8 @@ Ik raakte eerst een beetje in de stress, want ik snapte niet wat er mis gegaan k
 Het duurde effe voor ik mijzelf realiseerde dat de hele JavaScript het gewoon niet deed!
 JavaScript wordt totaal niet ondersteund op dit device.
 
+![Device lab en ik](dl6.jpg)
 
+Kortom: Mijn applicatie doet het prima op de apparaten. Dit zal komen, omdat ik geen "hacky" of code gebruikt dat moeilijk wordt ondersteund. De applicatie doet het niet zonder JavaScript. De data kan niet worden 
 
  [cover]: preview.png
